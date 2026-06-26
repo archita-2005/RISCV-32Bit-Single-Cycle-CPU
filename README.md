@@ -74,7 +74,9 @@ RISCV-Single-Cycle-Processor
 │   └── riscv_top_tb.v
 │
 ├── images
-│   ├── architecture.png
+│   ├── architecturediagram.png
+|   ├── designsources.png
+|   ├── simulationsources.png
 │   └── waveform.png
 │
 ├── README.md
