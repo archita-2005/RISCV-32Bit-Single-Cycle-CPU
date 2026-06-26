@@ -1,4 +1,11 @@
 # 🚀 32-bit Single Cycle RISC-V Processor in Verilog
+![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
+
+![Vivado](https://img.shields.io/badge/EDA-Xilinx%20Vivado-orange)
+
+![RISC-V](https://img.shields.io/badge/ISA-RV32I-green)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A 32-bit **Single Cycle RISC-V Processor** designed and implemented from scratch using **Verilog HDL**. This project demonstrates the fundamental architecture of a RISC-V CPU by implementing the instruction fetch, decode, execute, memory access, and write-back stages within a single clock cycle.
 
@@ -183,14 +190,24 @@ Simulation verified:
 # 🛠️ Tools Used
 
 - **Hardware Description Language:** Verilog HDL
-- **Design & Simulation:** Xilinx Vivado
+- **Design & Simulation:** Xilinx Vivado 2022.2
 - **Version Control:** Git
 - **Repository Hosting:** GitHub
 - **Target ISA:** RISC-V (RV32I)
+  
+---
+
+# ▶️ How to Run
+
+1. Open the project in Xilinx Vivado.
+2. Add all source files.
+3. Set `riscv_top_tb.v` as the simulation top module.
+4. Run Behavioral Simulation.
+5. Observe the waveform and verify register and memory outputs.
+
 ---
 
 # 🚀 Future Improvements
-
 Possible enhancements include:
 
 - Complete RV32I Instruction Set
@@ -228,7 +245,7 @@ Through this project, the following concepts were explored:
 Electronics and Communication Engineering  
 National Institute of Technology Silchar
 
-GitHub: https://github.com/archita-2005
+GitHub: [@archita-2005](https://github.com/archita-2005)
 
 ---
 
