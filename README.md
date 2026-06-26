@@ -1,11 +1,5 @@
 # 🚀 32-bit Single Cycle RISC-V Processor in Verilog
-![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
-
-![Vivado](https://img.shields.io/badge/EDA-Xilinx%20Vivado-orange)
-
-![RISC-V](https://img.shields.io/badge/ISA-RV32I-green)
-
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![Verilog](https://img.shields.io/badge/Language-Verilog-blue) ![Vivado](https://img.shields.io/badge/EDA-Xilinx%20Vivado-orange) ![RISC-V](https://img.shields.io/badge/ISA-RV32I-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A 32-bit **Single Cycle RISC-V Processor** designed and implemented from scratch using **Verilog HDL**. This project demonstrates the fundamental architecture of a RISC-V CPU by implementing the instruction fetch, decode, execute, memory access, and write-back stages within a single clock cycle.
 
