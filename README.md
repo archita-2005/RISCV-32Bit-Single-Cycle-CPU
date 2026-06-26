@@ -46,7 +46,7 @@ The processor performs the complete instruction execution flow:
 
 The processor consists of the following major blocks:
 
-!(architecturediagram.png)
+![RISC-V Processor](images/architecturediagram.png)
 ---
 
 # 📂 Project Structure
