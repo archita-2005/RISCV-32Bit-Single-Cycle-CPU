@@ -180,13 +180,13 @@ Simulation verified:
 
 ---
 
-# ⚙️ Tools Used
+# 🛠️ Tools Used
 
-- Verilog HDL
-- Xilinx Vivado Design Suite
-- Xilinx Simulator (XSIM)
-- Git & GitHub
-
+- **Hardware Description Language:** Verilog HDL
+- **Design & Simulation:** Xilinx Vivado
+- **Version Control:** Git
+- **Repository Hosting:** GitHub
+- **Target ISA:** RISC-V (RV32I)
 ---
 
 # 🚀 Future Improvements
