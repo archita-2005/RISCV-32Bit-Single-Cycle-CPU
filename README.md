@@ -78,6 +78,7 @@ RISCV-Single-Cycle-Processor
 │   ├── architecturediagram.png
 |   ├── designsources.png
 |   ├── simulationsources.png
+|   ├── schematic.png
 │   └── waveform.png
 │
 ├── README.md
